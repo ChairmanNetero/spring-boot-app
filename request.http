@@ -1,5 +1,7 @@
-GET http://localhost:8080/topics
-Accept: application/json
+DELETE http://localhost:8080/topics/spring
+
+###
+
 
 
 
