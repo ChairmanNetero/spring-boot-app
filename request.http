@@ -1,4 +1,14 @@
-DELETE http://localhost:8080/topics/spring
+POST http://localhost:8080/topics
+Content-Type: application/json
+
+{
+  "id": "react",
+  "name": "ReactJS",
+  "description": "A JavaScript library for building user interfaces"
+}
+
+###
+
 
 ###
 
